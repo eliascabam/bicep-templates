@@ -23,7 +23,7 @@ This deployment can be accessed via the [Azure AI Foundry portal](https://ai.azu
 The following AI models are deployed to the Azure AI Foundry Hub Environment:
 
 - [OpenAI GPT-4o - Global Standard (2024-11-20) - 10K TPM](https://ai.azure.com/explore/models/gpt-4o/version/2024-11-20/registry/azure-openai)
-- [Phi-3.5-MoE-instruct - Serverless Endpoint](https://ai.azure.com/explore/models/Phi-3.5-MoE-instruct/version/4/registry/azureml)
+- [Phi-4 - Serverless Endpoint](https://ai.azure.com/explore/models/Phi-4/version/1/registry/azureml)
 
 The following [AI Content Filters](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/content-filtering) are deployed for each model:
 

@@ -42,7 +42,7 @@ param aiServiceModelDeployments modelDeploymentInfo[] = [
 @description('Serverless model deployments for the AI Hub project.')
 param serverlessModelDeployments serverlessModelInfo[] = [
   {
-    name: 'Phi-3-mini-128k-instruct'
+    name: 'Phi-4'
   }
 ]
 

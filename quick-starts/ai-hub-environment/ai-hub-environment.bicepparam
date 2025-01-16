@@ -22,6 +22,6 @@ param aiServiceModelDeployments = [
 ]
 param serverlessModelDeployments = [
   {
-    name: 'Phi-35-moe-instruct'
+    name: 'Phi-4'
   }
 ]
