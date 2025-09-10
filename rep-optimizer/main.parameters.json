@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {"value": "westeurope"},
+    "rgName": {"value": "rg-rep-opt"},
+    "vnetName": {"value": "vnet-rep-opt"},
+    "acrName": {"value": "repoptacr"},
+    "containerGroupName": {"value": "rep-opt-cg"},
+    "storageAccountName": {"value": "repoptstorage"},
+    "keyVaultName": {"value": "repoptkv"},
+    "logAnalyticsName": {"value": "repopt-law"},
+    "appInsightsName": {"value": "repopt-ai"},
+    "tenantId": {"value": "00000000-0000-0000-0000-000000000000"},
+    "imageName": {"value": "rep-optimizer:latest"},
+    "adlsAcctName": {"value": "<adls-account>"},
+    "adlsAcctKey": {"value": "<adls-key>"}
+  }
+}
